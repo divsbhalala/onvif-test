@@ -1,0 +1,11 @@
+{
+  "Comment": "CREATE/DELETE/UPSERT a record ",
+  "Changes": [{
+    "Action": "CREATE",
+    "ResourceRecordSet": {
+      "Name": "divss3.maxgiving.dev",
+      "Type": "A",
+      "TTL": 300,
+      "ResourceRecords": [{ "Value": "18.191.177.70"}]
+    }}]
+}
